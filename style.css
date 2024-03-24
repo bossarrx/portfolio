@@ -162,6 +162,13 @@ height: 96px;
 margin-top: 174px;
 margin-bottom: 73px;
 }
+@media(max-width: 530px ) {
+    .text{
+        text-align: center;
+        margin-left: 0;
+    }
+    
+}
 .text2{
     font-family: var(--font-family);
 font-weight: 600;
